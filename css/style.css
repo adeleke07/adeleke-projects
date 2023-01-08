@@ -559,7 +559,7 @@ nav .fa-solid{
 @media screen and (max-width: 1000px) {
 
     .hero{
-        height: 130vh;
+        height: 105vh;
         width: 100%;
         background-image: url(../images/backgroundimg5\ \(4\).jpg);
         background-size: 10x;
