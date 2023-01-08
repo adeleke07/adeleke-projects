@@ -556,7 +556,7 @@ nav .fa-solid{
     } 
 }*/
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 1000px) {
 
         .hero{
             height: 150vh;
@@ -836,7 +836,7 @@ nav .fa-solid{
         }
     }
 
-    @media only screen and (min-width: 751px) {
+    @media only screen and (min-width: 1001px) {
         .about-textt h2{
             color: white;
             font-size: 75px;
